@@ -1,0 +1,20 @@
+{
+  "name": "express_react",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Waqas Noor <waqas.noor@vizteck.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/waqas2c/react_express",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.3.2"
+  }
+}
